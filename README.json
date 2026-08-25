@@ -27,7 +27,7 @@
             "archived": false,
             "id": 7569578,
             "language": "Ruby",
-            "last_commit": "2026-08-25T05:44:24Z",
+            "last_commit": "2026-08-25T05:50:23Z",
             "owner": "discourse",
             "repo": "discourse",
             "stars": 47723
@@ -3097,7 +3097,7 @@
             "archived": false,
             "id": 184717783,
             "language": "C++",
-            "last_commit": "2026-08-25T05:38:40Z",
+            "last_commit": "2026-08-25T05:45:34Z",
             "owner": "esmini",
             "repo": "esmini",
             "stars": 940
@@ -9199,7 +9199,7 @@
                 "archived": false,
                 "id": 139156354,
                 "language": "Python",
-                "last_commit": "2026-08-25T05:17:20Z",
+                "last_commit": "2026-08-25T05:51:31Z",
                 "owner": "cvat-ai",
                 "repo": "cvat",
                 "stars": 16590
@@ -9836,7 +9836,7 @@
                 "last_commit": "2026-08-25T01:28:51Z",
                 "owner": "syncthing",
                 "repo": "syncthing",
-                "stars": 87960
+                "stars": 87961
               }
             },
             {
@@ -9878,7 +9878,7 @@
                 "archived": false,
                 "id": 35517126,
                 "language": "Python",
-                "last_commit": "2026-08-25T05:43:09Z",
+                "last_commit": "2026-08-25T05:47:08Z",
                 "owner": "borgbackup",
                 "repo": "borg",
                 "stars": 13650
@@ -10312,7 +10312,7 @@
                 "archived": false,
                 "id": 25437858,
                 "language": "Python",
-                "last_commit": "2026-08-17T09:51:52Z",
+                "last_commit": "2026-08-25T05:47:30Z",
                 "owner": "pyinfra-dev",
                 "repo": "pyinfra",
                 "stars": 5961
@@ -11890,7 +11890,7 @@
             "last_commit": "2026-08-22T14:33:26Z",
             "owner": "netblue30",
             "repo": "firejail",
-            "stars": 7605
+            "stars": 7606
           }
         },
         {
@@ -12459,7 +12459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:44:44.021Z",
+    "last_updated": "2026-08-25T05:51:22.806Z",
     "original_repository": "Ly0n/awesome-robotic-tooling",
     "original_repository_id": 217333025,
     "original_repository_sha": "dc73ead6b38aad66993546455696dfe7f1115dfb",

@@ -77,7 +77,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 
 * [Gogs](https://github.com/gogs/gogs) ⭐ 47,763 | 🐛 1,008 | 🌐 Go | 📅 2026-08-22 - Build a simple, stable and extensible self-hosted Git service that can be setup in the most painless way.
 * [discourse](https://github.com/discourse/discourse) ⭐ 47,723 | 🐛 288 | 🌐 Ruby | 📅 2026-08-25 - A platform for community discussion. Free, open, simple.
-* [mattermost](https://github.com/mattermost/mattermost-server) ⭐ 38,892 | 🐛 972 | 🌐 TypeScript | 📅 2026-08-25 - An open source, private cloud, Slack-alternative.
+* [mattermost](https://github.com/mattermost/mattermost-server) ⭐ 38,892 | 🐛 973 | 🌐 TypeScript | 📅 2026-08-25 - An open source, private cloud, Slack-alternative.
 * [jitsi-meet](https://github.com/jitsi/jitsi-meet) ⭐ 29,801 | 🐛 149 | 🌐 TypeScript | 📅 2026-08-25 - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 * [Gitflow](https://github.com/nvie/gitflow) ⚠️ Archived - Makes parallel development very easy, by isolating new development from finished work.
 * [Wekan](https://github.com/wekan/wekan) ⭐ 21,064 | 🐛 334 | 🌐 JavaScript | 📅 2026-08-25 - Meteor based Kanban Board.
@@ -209,7 +209,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 
 ### Code and Run
 
-* [Visual Studio Code](https://github.com/Microsoft/vscode) ⭐ 189,576 | 🐛 20,087 | 🌐 TypeScript | 📅 2026-08-25 - Code editor for edit-build-debug cycle.
+* [Visual Studio Code](https://github.com/Microsoft/vscode) ⭐ 189,576 | 🐛 20,088 | 🌐 TypeScript | 📅 2026-08-25 - Code editor for edit-build-debug cycle.
 * [atom](https://github.com/atom/atom) ⚠️ Archived - Hackable text editor for the 21st century.
 * [pybind11](https://github.com/pybind/pybind11) ⭐ 18,004 | 🐛 713 | 🌐 C++ | 📅 2026-08-25 - Seamless operability between C++11 and Python.
 * [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) ⚠️ Archived - Free and open-source cross-platform source explorer.
@@ -274,7 +274,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 ### Unit and Integration Test
 
 * [googletest](https://github.com/google/googletest) ⭐ 38,956 | 🐛 490 | 🌐 C++ | 📅 2026-08-25 - Google's C++ test framework.
-* [pytest](https://github.com/pytest-dev/pytest/) ⭐ 14,441 | 🐛 811 | 🌐 Python | 📅 2026-08-24 - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
+* [pytest](https://github.com/pytest-dev/pytest/) ⭐ 14,441 | 🐛 812 | 🌐 Python | 📅 2026-08-24 - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
 * [doctest](https://github.com/onqtam/doctest) ⭐ 6,852 | 🐛 140 | 🌐 C++ | 📅 2026-08-18 - The fastest feature-rich C++11/14/17/20 single-header testing framework for unit tests and TDD.
 * [action-ros-ci](https://github.com/ros-tooling/action-ros-ci) ⭐ 171 | 🐛 55 | 🌐 TypeScript | 📅 2026-05-15 - GitHub Action to build and test ROS 2 packages using colcon.
 * [setup-ros](https://github.com/ros-tooling/setup-ros) ⭐ 108 | 🐛 34 | 🌐 TypeScript | 📅 2026-06-10 - This action sets up a ROS and ROS 2 environment for use in GitHub actions.
@@ -932,10 +932,10 @@ Your contribution is necessary to keep this list alive, increase the quality and
 
 ### Database and Record
 
-* [syncthing](https://github.com/syncthing/syncthing) ⭐ 87,960 | 🐛 376 | 🌐 Go | 📅 2026-08-25 - A continuous file synchronization program.
+* [syncthing](https://github.com/syncthing/syncthing) ⭐ 87,961 | 🐛 376 | 🌐 Go | 📅 2026-08-25 - A continuous file synchronization program.
 * [DuckDB](https://github.com/cwida/duckdb) ⭐ 40,590 | 🐛 820 | 🌐 C++ | 📅 2026-08-24 - An embeddable SQL OLAP Database Management System.
 * [nextcloud](https://github.com/nextcloud/server) ⭐ 36,566 | 🐛 3,592 | 🌐 PHP | 📅 2026-08-25 - Nextcloud is a suite of client-server software for creating and using file hosting services.
-* [borg](https://github.com/borgbackup/borg) ⭐ 13,650 | 🐛 242 | 🌐 Python | 📅 2026-08-25 - Deduplicating archiver with compression and authenticated encryption.
+* [borg](https://github.com/borgbackup/borg) ⭐ 13,650 | 🐛 243 | 🌐 Python | 📅 2026-08-25 - Deduplicating archiver with compression and authenticated encryption.
 * [pykitti](https://github.com/utiasSTARS/pykitti) ⭐ 1,243 | 🐛 27 | 🌐 Python | 📅 2023-10-16 - Python tools for working with KITTI data.
 * [xviz](https://github.com/uber/xviz) ⭐ 1,076 | 🐛 171 | 🌐 JavaScript | 📅 2024-07-05 - A protocol for real-time transfer and visualization of autonomy data.
 * [kitti2bag](https://github.com/tomas789/kitti2bag) ⭐ 812 | 🐛 42 | 🌐 Python | 📅 2024-07-06 - Convert KITTI dataset to ROS bag file the easy way.
@@ -959,7 +959,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 
 ### Server Infrastructure and High Performance Computing
 
-* [ansible](https://github.com/ansible/ansible) ⭐ 70,450 | 🐛 842 | 🌐 Python | 📅 2026-08-19 - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy.
+* [ansible](https://github.com/ansible/ansible) ⭐ 70,450 | 🐛 844 | 🌐 Python | 📅 2026-08-19 - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy.
 * [localstack](https://github.com/localstack/localstack) ⚠️ Archived - A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline.
 * [traefik](https://github.com/containous/traefik) ⭐ 64,573 | 🐛 916 | 🌐 Go | 📅 2026-08-24 - The Cloud Native Edge Router.
 * [Portainer](https://github.com/portainer/portainer) ⭐ 38,330 | 🐛 746 | 🌐 TypeScript | 📅 2026-08-21 - Making Docker management easy.
@@ -972,7 +972,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 * [jupyterhub](https://github.com/jupyterhub/jupyterhub) ⭐ 8,329 | 🐛 194 | 🌐 Python | 📅 2026-08-24 - Multi-user server for Jupyter notebooks.
 * [graylog2-server](https://github.com/Graylog2/graylog2-server) ⭐ 8,113 | 🐛 2,049 | 🌐 Java | 📅 2026-08-25 - Free and open source log management.
 * [docker-py](https://github.com/docker/docker-py) ⭐ 7,211 | 🐛 566 | 🌐 Python | 📅 2026-08-24 - A Python library for the Docker Engine API.
-* [pyinfra](https://github.com/Fizzadar/pyinfra) ⭐ 5,961 | 🐛 179 | 🌐 Python | 📅 2026-08-17 - It can be used for ad-hoc command execution, service deployment, configuration management and more.
+* [pyinfra](https://github.com/Fizzadar/pyinfra) ⭐ 5,961 | 🐛 177 | 🌐 Python | 📅 2026-08-25 - It can be used for ad-hoc command execution, service deployment, configuration management and more.
 * [Slurm](https://github.com/SchedMD/slurm) ⭐ 4,278 | 🐛 14 | 🌐 C | 📅 2026-08-24 - Slurm: A Highly Scalable Workload Manager.
 * [polyaxon](https://github.com/polyaxon/polyaxon) ⭐ 3,722 | 🐛 126 | 🌐 MDX | 📅 2026-08-22 - A platform for reproducing and managing the whole life cycle of machine learning and deep learning applications.
 * [docker-firefox](https://github.com/jlesage/docker-firefox) ⭐ 2,539 | 🐛 95 | 🌐 Shell | 📅 2026-08-17 - Run a Docker Container with Firefox and noVNC for remote access to headless servers.
@@ -1110,7 +1110,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 * [lynis](https://github.com/CISOfy/lynis) ⭐ 16,224 | 🐛 218 | 🌐 Shell | 📅 2026-08-05 - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening.
 * [OpenVPN](https://github.com/OpenVPN/openvpn) ⭐ 14,435 | 🐛 223 | 🌐 C | 📅 2026-08-25 - An open source VPN daemon.
 * [bandit](https://github.com/PyCQA/bandit) ⭐ 8,237 | 🐛 260 | 🌐 Python | 📅 2026-08-24 - A tool designed to find common security issues in Python code.
-* [Firejail](https://github.com/netblue30/firejail) ⭐ 7,605 | 🐛 523 | 🌐 C | 📅 2026-08-22 - A SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities.
+* [Firejail](https://github.com/netblue30/firejail) ⭐ 7,606 | 🐛 523 | 🌐 C | 📅 2026-08-22 - A SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities.
 * [gopass](https://github.com/gopasspw/gopass) ⭐ 7,103 | 🐛 86 | 🌐 Go | 📅 2026-08-24 - A password manager for the command line written in Go.
 * [vulscan](https://github.com/scipag/vulscan) ⭐ 3,780 | 🐛 7 | 🌐 Lua | 📅 2026-02-06 - Advanced vulnerability scanning with Nmap NSE.
 * [OpenTitan](https://github.com/lowRISC/opentitan) ⭐ 3,605 | 🐛 2,046 | 🌐 SystemVerilog | 📅 2026-08-25 - Will make the silicon Root of Trust design and implementation more transparent, trustworthy, and secure for enterprises, platform providers, and chip manufacturers. OpenTitan is administered by lowRISC CIC as a collaborative project to produce high quality, open IP for instantiation as a full-featured product.
