@@ -75,13 +75,13 @@ Your contribution is necessary to keep this list alive, increase the quality and
 
 ## Communication and Coordination
 
-* [discourse](https://github.com/discourse/discourse) ⭐ 47,934 | 🐛 262 | 🌐 Ruby | 📅 2026-10-06 - A platform for community discussion. Free, open, simple.
-* [Gogs](https://github.com/gogs/gogs) ⭐ 47,859 | 🐛 1,010 | 🌐 Go | 📅 2026-09-12 - Build a simple, stable and extensible self-hosted Git service that can be setup in the most painless way.
-* [mattermost](https://github.com/mattermost/mattermost-server) ⭐ 39,278 | 🐛 1,048 | 🌐 TypeScript | 📅 2026-10-06 - An open source, private cloud, Slack-alternative.
+* [discourse](https://github.com/discourse/discourse) ⭐ 47,934 | 🐛 264 | 🌐 Ruby | 📅 2026-10-06 - A platform for community discussion. Free, open, simple.
+* [Gogs](https://github.com/gogs/gogs) ⭐ 47,860 | 🐛 1,010 | 🌐 Go | 📅 2026-09-12 - Build a simple, stable and extensible self-hosted Git service that can be setup in the most painless way.
+* [mattermost](https://github.com/mattermost/mattermost-server) ⭐ 39,279 | 🐛 1,048 | 🌐 TypeScript | 📅 2026-10-06 - An open source, private cloud, Slack-alternative.
 * [jitsi-meet](https://github.com/jitsi/jitsi-meet) ⭐ 30,046 | 🐛 146 | 🌐 TypeScript | 📅 2026-10-05 - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 * [Gitflow](https://github.com/nvie/gitflow) ⚠️ Archived - Makes parallel development very easy, by isolating new development from finished work.
 * [Wekan](https://github.com/wekan/wekan) ⭐ 21,109 | 🐛 113 | 🌐 JavaScript | 📅 2026-10-06 - Meteor based Kanban Board.
-* [openproject](https://github.com/opf/openproject) ⭐ 16,324 | 🐛 265 | 🌐 Ruby | 📅 2026-10-06 - The leading open source project management software.
+* [openproject](https://github.com/opf/openproject) ⭐ 16,324 | 🐛 261 | 🌐 Ruby | 📅 2026-10-06 - The leading open source project management software.
 * [leantime](https://github.com/Leantime/leantime) ⭐ 11,734 | 🐛 231 | 🌐 PHP | 📅 2026-10-06 - Leantime is a lean project management system for innovators.
 * [Kanboard](https://github.com/kanboard/kanboard) ⭐ 9,895 | 🐛 168 | 🌐 PHP | 📅 2026-10-03 - Minimalistic Kanban Board.
 * [Gitlab](https://github.com/sameersbn/docker-gitlab) ⭐ 8,111 | 🐛 572 | 🌐 Shell | 📅 2026-09-25 - Simple Selfhosted Gitlab Server with Docker.
@@ -101,23 +101,23 @@ Your contribution is necessary to keep this list alive, increase the quality and
 
 ## Documentation and Presentation
 
-* [Excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 133,593 | 🐛 3,256 | 🌐 TypeScript | 📅 2026-10-05 - Virtual whiteboard for sketching hand-drawn like diagrams.
+* [Excalidraw](https://github.com/excalidraw/excalidraw) ⭐ 133,592 | 🐛 3,256 | 🌐 TypeScript | 📅 2026-10-06 - Virtual whiteboard for sketching hand-drawn like diagrams.
 * [tesseract](https://github.com/tesseract-ocr/tesseract) ⭐ 76,838 | 🐛 493 | 🌐 C++ | 📅 2026-09-28 - Open Source OCR Engine.
-* [Pandoc](https://github.com/jgm/pandoc) ⭐ 46,596 | 🐛 1,039 | 🌐 Haskell | 📅 2026-10-06 - Universal markup converter.
+* [Pandoc](https://github.com/jgm/pandoc) ⭐ 46,603 | 🐛 1,039 | 🌐 Haskell | 📅 2026-10-06 - Universal markup converter.
 * [carbon](https://github.com/carbon-app/carbon) ⭐ 36,110 | 🐛 86 | 🌐 JavaScript | 📅 2026-02-10 - Share beautiful images of your source code.
 * [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) ⭐ 34,943 | 🐛 62 | 🌐 Python | 📅 2026-10-06 - Adds an OCR text layer to scanned PDF files, allowing them to be searched.
 * [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) ⭐ 25,014 | 🐛 89 | 🌐 TeX | 📅 2023-08-21 - Latex code for drawing neural networks for reports and presentation.
 * [mkdocs](https://github.com/mkdocs/mkdocs/) ⭐ 22,494 | 🐛 192 | 🌐 Python | 📅 2025-10-20 - A fast, simple and downright gorgeous static site generator that's geared towards building project documentation.
 * [overleaf](https://github.com/overleaf/overleaf) ⭐ 18,211 | 🐛 173 | 🌐 JavaScript | 📅 2026-09-17 - An open-source online real-time collaborative LaTeX editor.
 * [asciinema](https://github.com/asciinema/asciinema) ⭐ 17,858 | 🐛 12 | 🌐 Rust | 📅 2026-08-14 - Lets you easily record terminal sessions and replay them in a terminal as well as in a web browser.
-* [foam](https://github.com/foambubble/foam) ⭐ 17,440 | 🐛 26 | 🌐 TypeScript | 📅 2026-09-30 - Foam is a personal knowledge management and sharing system inspired by Roam Research, built on Visual Studio Code and GitHub.
-* [Zotero](https://github.com/zotero/zotero) ⭐ 15,479 | 🐛 1,609 | 🌐 JavaScript | 📅 2026-10-06 - A free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
+* [foam](https://github.com/foambubble/foam) ⭐ 17,441 | 🐛 26 | 🌐 TypeScript | 📅 2026-09-30 - Foam is a personal knowledge management and sharing system inspired by Roam Research, built on Visual Studio Code and GitHub.
+* [Zotero](https://github.com/zotero/zotero) ⭐ 15,480 | 🐛 1,609 | 🌐 JavaScript | 📅 2026-10-06 - A free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
 * [gollum](https://github.com/gollum/gollum) ⭐ 14,335 | 🐛 91 | 🌐 Ruby | 📅 2025-11-24 - A simple, Git-powered wiki with a sweet API and local frontend.
 * [ReLaXed](https://github.com/RelaxedJS/ReLaXed) ⭐ 11,791 | 🐛 52 | 🌐 JavaScript | 📅 2025-09-07 - Allows complex PDF layouts to be defined with CSS and JavaScript, while writing the content in a friendly, minimal syntax close to Markdown or LaTeX.
 * [Sphinx](https://github.com/sphinx-doc/sphinx/) ⭐ 8,058 | 🐛 1,471 | 🌐 Python | 📅 2026-10-05 - A tool that makes it easy to create intelligent and beautiful documentation for Python projects.
 * [paperless](https://github.com/the-paperless-project/paperless) ⚠️ Archived - Index and archive all of your scanned paper documents.
 * [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) ⭐ 7,537 | 🐛 129 | 🌐 Ruby | 📅 2026-03-18 - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
-* [CodiMD](https://github.com/codimd/server) ⭐ 7,461 | 🐛 277 | 🌐 TypeScript | 📅 2026-10-05 - Open Source Online Real-time collaborate on team documentation in markdown.
+* [CodiMD](https://github.com/codimd/server) ⭐ 7,462 | 🐛 277 | 🌐 TypeScript | 📅 2026-10-05 - Open Source Online Real-time collaborate on team documentation in markdown.
 * [buku](https://github.com/jarun/buku) ⭐ 7,212 | 🐛 2 | 🌐 Python | 📅 2026-09-15 - Browser-independent bookmark manager.
 * [Doxygen](https://github.com/doxygen/doxygen) ⭐ 6,588 | 🐛 1,883 | 🌐 C++ | 📅 2026-09-30 - Doxygen is the de facto standard tool for generating documentation from annotated C++ sources.
 * [papermill](https://github.com/nteract/papermill) ⭐ 6,489 | 🐛 197 | 🌐 Python | 📅 2026-10-05 - A tool for parameterizing, executing, and analyzing Jupyter Notebooks.
@@ -148,7 +148,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 ## Requirements and Safety
 
 * [awesome-safety-critical](https://github.com/stanislaw/awesome-safety-critical) ⭐ 1,593 | 🐛 1 | 🌐 Python | 📅 2025-03-11 - List of resources about programming practices for writing safety-critical software.
-* [fossology](https://github.com/fossology/fossology) ⭐ 1,032 | 🐛 299 | 🌐 HTML | 📅 2026-10-05 - A toolkit you can run license, copyright and export control scans from the command line.
+* [fossology](https://github.com/fossology/fossology) ⭐ 1,032 | 🐛 300 | 🌐 HTML | 📅 2026-10-05 - A toolkit you can run license, copyright and export control scans from the command line.
 * [doorstop](https://github.com/doorstop-dev/doorstop) ⭐ 673 | 🐛 60 | 🌐 Python | 📅 2026-10-03 - Requirements management using version control.
 * [safe\_numerics](https://github.com/boostorg/safe_numerics) ⭐ 222 | 🐛 37 | 🌐 C++ | 📅 2026-08-12 - Replacements to standard numeric types which throw exceptions on errors.
 * [open-autonomous-safety](https://github.com/voyage/open-autonomous-safety) ⭐ 179 | 🐛 4 | 🌐 JavaScript | 📅 2018-06-04 - OAS is a fully open-source library of Voyage's safety processes and testing procedures, designed to supplement existing safety programs at self-driving car startups across the world.
@@ -165,7 +165,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 
 ## Architecture and Design
 
-* [Architecture\_Decision\_Record](https://github.com/joelparkerhenderson/architecture_decision_record) ⭐ 17,095 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-06 - A document that captures an important architectural decision made along with its context and consequences.
+* [Architecture\_Decision\_Record](https://github.com/joelparkerhenderson/architecture_decision_record) ⭐ 17,096 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-06 - A document that captures an important architectural decision made along with its context and consequences.
 * [vscode-drawio](https://github.com/hediet/vscode-drawio) ⭐ 9,496 | 🐛 178 | 🌐 TypeScript | 📅 2026-10-04 - This extension integrates Draw\.io into VS Code.
 * [Plantuml](https://github.com/plantuml/plantuml-server) ⭐ 2,221 | 🐛 76 | 🌐 Java | 📅 2026-09-05 - Web application to generate UML diagrams on-the-fly in your live documentation.
 * [pydeps](https://github.com/thebjorn/pydeps) ⭐ 2,118 | 🐛 40 | 🌐 Python | 📅 2026-10-01 - Python Module Dependency graphs.
@@ -181,10 +181,10 @@ Your contribution is necessary to keep this list alive, increase the quality and
 ## Frameworks and Stacks
 
 * [OpenPilot](https://github.com/commaai/openpilot) ⭐ 63,834 | 🐛 136 | 🌐 Python | 📅 2026-10-06 - Open Source Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS).
-* [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics/) ⭐ 30,632 | 🐛 57 | 🌐 Python | 📅 2026-10-06 - This is a Python code collection of robotics algorithms, especially for autonomous navigation.
+* [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics/) ⭐ 30,633 | 🐛 57 | 🌐 Python | 📅 2026-10-06 - This is a Python code collection of robotics algorithms, especially for autonomous navigation.
 * [Apollo](https://github.com/ApolloAuto/apollo) ⭐ 26,853 | 🐛 1,047 | 🌐 C++ | 📅 2026-04-16 - High performance, flexible architecture which accelerates the development, testing, and deployment of Autonomous Vehicles.
-* [ArduPilot](https://github.com/ArduPilot/ardupilot) ⭐ 15,998 | 🐛 3,243 | 🌐 C++ | 📅 2026-10-06 - Open source control software for autonomous vehicles - copters/planes/rovers/boats/submersibles.
-* [PX4](https://github.com/PX4/Firmware) ⭐ 12,747 | 🐛 399 | 🌐 C++ | 📅 2026-10-06 - An open source flight control software for drones and other unmanned vehicles.
+* [ArduPilot](https://github.com/ArduPilot/ardupilot) ⭐ 15,999 | 🐛 3,240 | 🌐 C++ | 📅 2026-10-06 - Open source control software for autonomous vehicles - copters/planes/rovers/boats/submersibles.
+* [PX4](https://github.com/PX4/Firmware) ⭐ 12,748 | 🐛 400 | 🌐 C++ | 📅 2026-10-06 - An open source flight control software for drones and other unmanned vehicles.
 * [F Prime](https://github.com/nasa/fprime) ⭐ 11,811 | 🐛 457 | 🌐 C++ | 📅 2026-10-05 - A component-driven framework that enables rapid development and deployment of spaceflight and other embedded software applications.
 * [open-source-rover](https://github.com/nasa-jpl/open-source-rover) ⭐ 9,684 | 🐛 17 | 🌐 HTML | 📅 2026-09-03 - A build-it-yourself, 6-wheel rover based on the rovers on Mars from JPL.
 * [awesome-ros2](https://github.com/fkromer/awesome-ros2) ⚠️ Archived - A curated list of awesome Robot Operating System Version 2.0 (ROS 2) resources and libraries.
@@ -209,7 +209,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 
 ### Code and Run
 
-* [Visual Studio Code](https://github.com/Microsoft/vscode) ⭐ 193,571 | 🐛 21,494 | 🌐 TypeScript | 📅 2026-10-06 - Code editor for edit-build-debug cycle.
+* [Visual Studio Code](https://github.com/Microsoft/vscode) ⭐ 193,582 | 🐛 21,488 | 🌐 TypeScript | 📅 2026-10-06 - Code editor for edit-build-debug cycle.
 * [atom](https://github.com/atom/atom) ⚠️ Archived - Hackable text editor for the 21st century.
 * [pybind11](https://github.com/pybind/pybind11) ⭐ 18,025 | 🐛 727 | 🌐 C++ | 📅 2026-10-06 - Seamless operability between C++11 and Python.
 * [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) ⚠️ Archived - Free and open-source cross-platform source explorer.
@@ -286,10 +286,10 @@ Your contribution is necessary to keep this list alive, increase the quality and
 
 * [black](https://github.com/psf/black) ⭐ 41,871 | 🐛 269 | 🌐 Python | 📅 2026-10-05 - The uncompromising Python code formatter.
 * [shellcheck](https://github.com/koalaman/shellcheck) ⭐ 40,140 | 🐛 1,108 | 🌐 Haskell | 📅 2026-10-03 - A static analysis tool for shell scripts.
-* [pydantic](https://github.com/samuelcolvin/pydantic) ⭐ 28,945 | 🐛 589 | 🌐 Python | 📅 2026-10-05 - Data parsing and validation using Python type hints.
-* [hadolint](https://github.com/hadolint/hadolint) ⭐ 12,459 | 🐛 206 | 🌐 Haskell | 📅 2026-09-25 - Dockerfile linter, validate inline bash, written in Haskell.
+* [pydantic](https://github.com/samuelcolvin/pydantic) ⭐ 28,947 | 🐛 589 | 🌐 Python | 📅 2026-10-05 - Data parsing and validation using Python type hints.
+* [hadolint](https://github.com/hadolint/hadolint) ⭐ 12,460 | 🐛 206 | 🌐 Haskell | 📅 2026-09-25 - Dockerfile linter, validate inline bash, written in Haskell.
 * [cppcheck](https://github.com/danmar/cppcheck) ⭐ 6,768 | 🐛 217 | 🌐 C++ | 📅 2026-10-04 - Static analysis of C/C++ code.
-* [pylint](https://github.com/PyCQA/pylint/) ⭐ 5,730 | 🐛 1,010 | 🌐 Python | 📅 2026-10-06 - Pylint is a Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
+* [pylint](https://github.com/PyCQA/pylint/) ⭐ 5,730 | 🐛 1,011 | 🌐 Python | 📅 2026-10-06 - Pylint is a Python static code analysis tool which looks for programming errors, helps enforcing a coding standard, sniffs for code smells and offers simple refactoring suggestions.
 * [pydocstyle](https://github.com/PyCQA/pydocstyle) ⚠️ Archived - A static analysis tool for checking compliance with Python docstring conventions.
 * [haros](https://github.com/git-afsantos/haros) ⭐ 201 | 🐛 1 | 🌐 Python | 📅 2024-12-12 - Static analysis of ROS application code.
 * [catkin\_lint](https://github.com/fkie/catkin_lint) ⭐ 57 | 🐛 1 | 🌐 Python | 📅 2024-12-10 - Checks package configurations for the catkin build system of ROS.
@@ -306,7 +306,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 * [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) ⭐ 8,173 | 🐛 108 | 🌐 TypeScript | 📅 2025-03-17 - An extension for VS Code that visualizes data during debugging.
 * [pyre-check](https://github.com/facebook/pyre-check) ⚠️ Archived - Performant type-checking for python.
 * [hotspot](https://github.com/KDAB/hotspot) ⭐ 5,181 | 🐛 80 | 🌐 C++ | 📅 2026-09-09 - The Linux perf GUI for performance analysis.
-* [cppinsights](https://github.com/andreasfertig/cppinsights) ⭐ 4,666 | 🐛 25 | 🌐 C++ | 📅 2026-08-26 - C++ Insights - See your source code with the eyes of a compiler.
+* [cppinsights](https://github.com/andreasfertig/cppinsights) ⭐ 4,667 | 🐛 25 | 🌐 C++ | 📅 2026-08-26 - C++ Insights - See your source code with the eyes of a compiler.
 * [memory\_profiler](https://github.com/pythonprofilers/memory_profiler) ⭐ 4,576 | 🐛 141 | 🌐 Python | 📅 2024-04-29 - A python module for monitoring memory consumption of a process as well as line-by-line analysis of memory consumption for python programs.
 * [backward-cpp](https://github.com/bombela/backward-cpp) ⭐ 4,305 | 🐛 127 | 🌐 C++ | 📅 2025-04-14 - A beautiful stack trace pretty printer for C++.
 * [heaptrack](https://github.com/KDE/heaptrack) ⭐ 4,173 | 🐛 4 | 🌐 C++ | 📅 2026-10-02 - Traces all memory allocations and annotates these events with stack traces.
@@ -329,13 +329,13 @@ Your contribution is necessary to keep this list alive, increase the quality and
 
 ### Version Control
 
-* [lazygit](https://github.com/jesseduffield/lazygit) ⭐ 82,920 | 🐛 1,044 | 🌐 Go | 📅 2026-10-05 - A simple terminal UI for git commands, written in Go with the gocui library.
+* [lazygit](https://github.com/jesseduffield/lazygit) ⭐ 82,923 | 🐛 1,044 | 🌐 Go | 📅 2026-10-05 - A simple terminal UI for git commands, written in Go with the gocui library.
 * [dive](https://github.com/wagoodman/dive) ⭐ 54,631 | 🐛 217 | 🌐 Go | 📅 2025-12-15 - A tool for exploring each layer in a docker image.
 * [learnGitBranching](https://github.com/pcottle/learnGitBranching) ⭐ 34,114 | 🐛 56 | 🌐 JavaScript | 📅 2026-10-05 - A git repository visualizer, sandbox, and a series of educational tutorials and challenges.
 * [semantic-release](https://github.com/semantic-release/semantic-release) ⭐ 24,089 | 🐛 403 | 🌐 JavaScript | 📅 2026-10-06 - Fully automated version management and package publishing.
 * [dvc](https://github.com/iterative/dvc) ⭐ 15,901 | 🐛 218 | 🌐 Python | 📅 2026-10-05 - Management and versioning of datasets and machine learning models.
 * [tig](https://github.com/jonas/tig) ⭐ 13,357 | 🐛 234 | 🌐 C | 📅 2026-09-19 - Text-mode interface for git.
-* [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) ⭐ 12,198 | 🐛 275 | 🌐 Scala | 📅 2025-01-19 - Removes large or troublesome blobs like git-filter-branch does, but faster.
+* [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) ⭐ 12,199 | 🐛 275 | 🌐 Scala | 📅 2025-01-19 - Removes large or troublesome blobs like git-filter-branch does, but faster.
 * [git-secret](https://github.com/sobolevn/git-secret) ⭐ 4,047 | 🐛 153 | 🌐 Shell | 📅 2026-09-28 - Encrypts files with permitted users' public keys, allowing users you trust to access encrypted data using pgp and their secret keys.
 * [nbdime](https://github.com/jupyter/nbdime) ⭐ 2,844 | 🐛 98 | 🌐 TypeScript | 📅 2026-06-10 - Tools for diffing and merging of Jupyter notebooks.
 * [git-sweep](https://github.com/arc90/git-sweep) ⭐ 2,716 | 🐛 45 | 🌐 Python | 📅 2023-10-01 - A command-line tool that helps you clean up Git branches that have been merged into master.
@@ -354,15 +354,15 @@ Your contribution is necessary to keep this list alive, increase the quality and
 * [AirSim](https://github.com/microsoft/AirSim) ⭐ 18,536 | 🐛 781 | 🌐 C++ | 📅 2026-09-15 - Open source simulator for autonomous vehicles built on Unreal Engine.
 * [carla](https://github.com/carla-simulator/carla) ⭐ 14,462 | 🐛 1,196 | 🌐 C++ | 📅 2026-10-06 - Open-source simulator for autonomous driving research.
 * [Webots](https://github.com/cyberbotics/webots) ⭐ 4,695 | 🐛 228 | 🌐 C++ | 📅 2026-10-06 - Webots is an open source robot simulator compatible (among others) with [ROS](http://wiki.ros.org/webots_ros) and [ROS2](http://wiki.ros.org/webots_ros2).
-* [Drake](https://github.com/RobotLocomotion/drake) ⭐ 4,216 | 🐛 648 | 🌐 C++ | 📅 2026-10-06 - Drake aims to simulate even very complex dynamics of robots.
+* [Drake](https://github.com/RobotLocomotion/drake) ⭐ 4,217 | 🐛 648 | 🌐 C++ | 📅 2026-10-06 - Drake aims to simulate even very complex dynamics of robots.
 * [sumo](https://github.com/eclipse/sumo) ⭐ 4,199 | 🐛 2,960 | 🌐 Python | 📅 2026-10-06 - Eclipse SUMO is an open source, highly portable, microscopic and continuous road traffic simulation package designed to handle large road networks.
 * [self-driving-car-sim](https://github.com/udacity/self-driving-car-sim) ⚠️ Archived - A self-driving car simulator built with Unity.
 * [OpenSceneGraph](https://github.com/openscenegraph/OpenSceneGraph) ⭐ 3,614 | 🐛 175 | 🌐 C++ | 📅 2024-08-09 - An open source high performance 3D graphics toolkit, used by application developers in fields such as visual simulation, games, virtual reality, scientific visualization and modelling.
-* [highway-env](https://github.com/eleurent/highway-env) ⭐ 3,324 | 🐛 44 | 🌐 Python | 📅 2026-10-06 - A collection of environments for autonomous driving and tactical decision-making tasks.
+* [highway-env](https://github.com/eleurent/highway-env) ⭐ 3,324 | 🐛 43 | 🌐 Python | 📅 2026-10-06 - A collection of environments for autonomous driving and tactical decision-making tasks.
 * [Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) ⭐ 2,588 | 🐛 56 | 🌐 C# | 📅 2026-09-22 - Central repository for tools, tutorials, resources, and documentation for robotic simulation in Unity.
 * [simbody](https://github.com/simbody/simbody) ⭐ 2,557 | 🐛 146 | 🌐 C++ | 📅 2026-10-05 - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton.
 * [lgsv](https://github.com/lgsvl/simulator) ⭐ 2,459 | 🐛 628 | 🌐 C# | 📅 2023-04-04 - LG Electronics America R\&D Center has developed an HDRP Unity-based multi-robot simulator for autonomous vehicle developers.
-* [champ](https://github.com/chvmp/champ) ⭐ 2,323 | 🐛 54 | 🌐 C++ | 📅 2024-07-04 - ROS Packages for CHAMP Quadruped Controller.
+* [champ](https://github.com/chvmp/champ) ⭐ 2,324 | 🐛 54 | 🌐 C++ | 📅 2024-07-04 - ROS Packages for CHAMP Quadruped Controller.
 * [gym-pybullet-drones](https://github.com/utiasDSL/gym-pybullet-drones) ⭐ 2,153 | 🐛 111 | 🌐 Python | 📅 2026-09-06 - PyBullet-based Gym environments for single and multi-agent reinforcement learning of quadcopter control.
 * [AI2-THOR](https://github.com/allenai/ai2thor) ⭐ 1,809 | 🐛 280 | 🌐 C# | 📅 2025-11-04 - Python framework with a Unity backend providing interaction, navigation, and manipulation support for household based robotic agents, consisting of 200+ of custom scenes, 1500+ custom annotated objects, and 200+ actions.
 * [rotors\_simulator](https://github.com/ethz-asl/rotors_simulator) ⭐ 1,506 | 🐛 174 | 🌐 C++ | 📅 2024-07-15 - Provides some multirotor models.
@@ -410,8 +410,8 @@ Your contribution is necessary to keep this list alive, increase the quality and
 
 ## Electronics and Mechanics
 
-* [FreeCAD](https://github.com/FreeCAD/FreeCAD) ⭐ 33,972 | 🐛 3,943 | 🌐 C++ | 📅 2026-10-06 - Your own 3D parametric modeler.
-* [openscad](https://github.com/openscad/openscad) ⭐ 10,370 | 🐛 826 | 🌐 C++ | 📅 2026-10-05 -  A software for creating solid 3D CAD models.
+* [FreeCAD](https://github.com/FreeCAD/FreeCAD) ⭐ 33,973 | 🐛 3,941 | 🌐 C++ | 📅 2026-10-06 - Your own 3D parametric modeler.
+* [openscad](https://github.com/openscad/openscad) ⭐ 10,371 | 🐛 826 | 🌐 C++ | 📅 2026-10-05 -  A software for creating solid 3D CAD models.
 * [WireViz](https://github.com/formatc1702/WireViz) ⭐ 5,292 | 🐛 195 | 🌐 Python | 📅 2026-06-06 - A tool for easily documenting cables, wiring harnesses and connector pinouts.
 * [NASA-3D-Resources](https://github.com/nasa/NASA-3D-Resources) ⭐ 3,803 | 🐛 4 | 📅 2025-06-03 - Here you'll find a growing collection of 3D models, textures, and images from inside NASA.
 * [ODrive](https://github.com/madcowswe/ODrive) ⭐ 3,787 | 🐛 18 | 🌐 C++ | 📅 2026-01-20 - The aim is to make it possible to use inexpensive brushless motors in high performance robotics projects.
@@ -431,7 +431,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 * [oemof-solph](https://github.com/oemof/oemof-solph) ⭐ 422 | 🐛 106 | 🌐 Python | 📅 2026-10-05 - A modular open source framework to model energy supply systems.
 * [Inkscape Ray Optics](https://github.com/damienBloch/inkscape-raytracing) ⭐ 378 | 🐛 9 | 🌐 Python | 📅 2024-06-20 - An extension for Inkscape that makes it easier to draw optical diagrams.
 * [urdfpy](https://github.com/mmatl/urdfpy) ⭐ 318 | 🐛 29 | 🌐 Python | 📅 2024-08-19 - A simple and easy-to-use library for loading, manipulating, saving, and visualizing URDF files.
-* [tigl](https://github.com/DLR-SC/tigl) ⭐ 303 | 🐛 134 | 🌐 C++ | 📅 2026-10-05 - The TiGL Geometry Library can be used for the computation and processing of aircraft geometries stored inside CPACS files.
+* [tigl](https://github.com/DLR-SC/tigl) ⭐ 304 | 🐛 134 | 🌐 C++ | 📅 2026-10-05 - The TiGL Geometry Library can be used for the computation and processing of aircraft geometries stored inside CPACS files.
 * [OpenAeroStruct](https://github.com/mdolab/OpenAeroStruct) ⭐ 283 | 🐛 34 | 🌐 Python | 📅 2025-10-06 -  A lightweight tool that performs aerostructural optimization using OpenMDAO.
 * [opem](https://github.com/ECSIM/opem) ⭐ 232 | 🐛 3 | 🌐 Python | 📅 2026-09-14 - The Open-Source PEMFC Simulation Tool (OPEM) is a modeling tool for evaluating the performance of proton exchange membrane fuel cells.
 * [FMIKit-Simulink](https://github.com/CATIA-Systems/FMIKit-Simulink) ⚠️ Archived - Import and export Functional Mock-up Units with Simulink.
@@ -481,12 +481,12 @@ Your contribution is necessary to keep this list alive, increase the quality and
 
 ### Machine Learning
 
-* [ray](https://github.com/ray-project/ray) ⭐ 43,973 | 🐛 3,572 | 🌐 Python | 📅 2026-10-06 - A fast and simple framework for building and running distributed applications.
+* [ray](https://github.com/ray-project/ray) ⭐ 43,973 | 🐛 3,574 | 🌐 Python | 📅 2026-10-06 - A fast and simple framework for building and running distributed applications.
 * [gym](https://github.com/openai/gym) ⚠️ Archived - A toolkit for developing and comparing reinforcement learning algorithms.
 * [Netron](https://github.com/lutzroeder/Netron) ⭐ 33,549 | 🐛 19 | 🌐 JavaScript | 📅 2026-10-05 - Visualizer for neural network, deep learning and machine learning models.
-* [mlflow](https://github.com/mlflow/mlflow) ⭐ 28,279 | 🐛 2,170 | 🌐 Python | 📅 2026-10-06 - A platform to streamline machine learning development, including tracking experiments, packaging code into reproducible runs, and sharing and deploying models.
+* [mlflow](https://github.com/mlflow/mlflow) ⭐ 28,280 | 🐛 2,168 | 🌐 Python | 📅 2026-10-06 - A platform to streamline machine learning development, including tracking experiments, packaging code into reproducible runs, and sharing and deploying models.
 * [fastai](https://github.com/fastai/fastai) ⭐ 28,212 | 🐛 275 | 🌐 Jupyter Notebook | 📅 2026-09-21 - The fastai library simplifies training fast and accurate neural nets using modern best practices.
-* [MNN](https://github.com/alibaba/MNN) ⭐ 16,177 | 🐛 53 | 🌐 C++ | 📅 2026-09-30 - A blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba.
+* [MNN](https://github.com/alibaba/MNN) ⭐ 16,178 | 🐛 53 | 🌐 C++ | 📅 2026-09-30 - A blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba.
 * [DLIB](https://github.com/davisking/dlib) ⭐ 14,455 | 🐛 38 | 🌐 C++ | 📅 2026-10-04 - A toolkit for making real world machine learning and data analysis applications in C++.
 * [Dopamine](https://github.com/google/dopamine) ⭐ 10,918 | 🐛 111 | 🌐 Jupyter Notebook | 📅 2026-03-24 - A research framework for fast prototyping of reinforcement learning algorithms.
 * [tpot](https://github.com/EpistasisLab/tpot) ⭐ 10,055 | 🐛 311 | 🌐 Jupyter Notebook | 📅 2025-09-11 - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
@@ -535,7 +535,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 * [flownet2-pytorch](https://github.com/NVIDIA/flownet2-pytorch) ⭐ 3,292 | 🐛 168 | 🌐 Python | 📅 2026-03-30 - Pytorch implementation of FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks.
 * [simpledet](https://github.com/tusimple/simpledet) ⭐ 3,085 | 🐛 44 | 🌐 Python | 📅 2021-09-23 - A Simple and Versatile Framework for Object Detection and Instance Recognition.
 * [darknet\_ros](https://github.com/leggedrobotics/darknet_ros) ⭐ 2,440 | 🐛 166 | 🌐 C++ | 📅 2024-07-19 - YOLO ROS: Real-Time Object Detection for ROS.
-* [Simd](https://github.com/ermig1979/Simd) ⭐ 2,271 | 🐛 27 | 🌐 C++ | 📅 2026-10-06 - C++ image processing and machine learning library with using of SIMD: SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2, AVX-512, VMX(Altivec) and VSX(Power7), NEON for ARM.
+* [Simd](https://github.com/ermig1979/Simd) ⭐ 2,271 | 🐛 26 | 🌐 C++ | 📅 2026-10-06 - C++ image processing and machine learning library with using of SIMD: SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2, AVX-512, VMX(Altivec) and VSX(Power7), NEON for ARM.
 * [robosat](https://github.com/mapbox/robosat) ⭐ 2,063 | 🐛 58 | 🌐 Python | 📅 2026-06-29 - Semantic segmentation on aerial and satellite imagery.
 * [SfMLearner](https://github.com/tinghuiz/SfMLearner) ⭐ 2,016 | 🐛 48 | 🌐 Jupyter Notebook | 📅 2021-10-26 - An unsupervised learning framework for depth and ego-motion estimation.
 * [AB3DMOT](https://github.com/xinshuoweng/AB3DMOT) ⭐ 1,846 | 🐛 24 | 🌐 Python | 📅 2024-04-03 - This work proposes a simple yet accurate real-time baseline 3D multi-object tracking system.
@@ -582,10 +582,10 @@ Your contribution is necessary to keep this list alive, increase the quality and
 * [mmdetection3d](https://github.com/open-mmlab/mmdetection3d) ⭐ 6,548 | 🐛 658 | 🌐 Python | 📅 2024-07-10 - Next-generation platform for general 3D object detection.
 * [PCDet](https://github.com/sshaoshuai/PCDet) ⭐ 5,724 | 🐛 32 | 🌐 Python | 📅 2025-10-08 - A general PyTorch-based codebase for 3D object detection from point cloud.
 * [OpenPCDet](https://github.com/open-mmlab/OpenPCDet) ⭐ 5,724 | 🐛 32 | 🌐 Python | 📅 2025-10-08 - A Toolbox for LiDAR-based 3D Object Detection.
-* [kaolin](https://github.com/NVIDIAGameWorks/kaolin) ⭐ 5,182 | 🐛 26 | 🌐 Python | 📅 2026-09-18 - A PyTorch Library for Accelerating 3D Deep Learning Research.
+* [kaolin](https://github.com/NVIDIAGameWorks/kaolin) ⭐ 5,182 | 🐛 27 | 🌐 Python | 📅 2026-09-18 - A PyTorch Library for Accelerating 3D Deep Learning Research.
 * [grid\_map](https://github.com/ANYbotics/grid_map) ⭐ 3,252 | 🐛 168 | 🌐 C++ | 📅 2026-01-13 - Universal grid map library for mobile robotic mapping.
 * [octomap](https://github.com/OctoMap/octomap) ⭐ 2,388 | 🐛 41 | 🌐 C++ | 📅 2026-09-26 - An Efficient Probabilistic 3D Mapping Framework Based on Octrees.
-* [KISS-ICP](https://github.com/PRBonn/kiss-icp) ⭐ 2,337 | 🐛 21 | 🌐 C++ | 📅 2026-06-09 - A LiDAR Odometry pipeline that just works on most of the cases without tunning any parameter.
+* [KISS-ICP](https://github.com/PRBonn/kiss-icp) ⭐ 2,338 | 🐛 18 | 🌐 C++ | 📅 2026-06-09 - A LiDAR Odometry pipeline that just works on most of the cases without tunning any parameter.
 * [python-pcl](https://github.com/strawlab/python-pcl) ⚠️ Archived - Python bindings to the pointcloud library.
 * [elevation\_mapping](https://github.com/ANYbotics/elevation_mapping) ⭐ 1,878 | 🐛 101 | 🌐 C++ | 📅 2024-11-04 - Robot-centric elevation mapping for rough terrain navigation.
 * [libpointmatcher](https://github.com/ethz-asl/libpointmatcher) ⭐ 1,838 | 🐛 100 | 🌐 C++ | 📅 2026-08-27 - An "Iterative Closest Point" library for 2-D/3-D mapping in Robotics.
@@ -637,7 +637,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 ## Localization and State Estimation
 
 * [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) ⭐ 19,402 | 🐛 144 | 🌐 Jupyter Notebook | 📅 2024-08-07 - Kalman Filter book using Jupyter Notebook.
-* [evo](https://github.com/MichaelGrupp/evo) ⭐ 4,325 | 🐛 6 | 🌐 Python | 📅 2026-10-05 - Python package for the evaluation of odometry and SLAM.
+* [evo](https://github.com/MichaelGrupp/evo) ⭐ 4,325 | 🐛 7 | 🌐 Python | 📅 2026-10-05 - Python package for the evaluation of odometry and SLAM.
 * [PROJ](https://github.com/OSGeo/PROJ) ⭐ 2,028 | 🐛 115 | 🌐 C++ | 📅 2026-10-03 - Cartographic Projections and Coordinate Transformations Library.
 * [robot\_localization](https://github.com/cra-ros-pkg/robot_localization) ⭐ 1,964 | 🐛 95 | 🌐 C++ | 📅 2026-07-16 - A package of nonlinear state estimation nodes.
 * [rpg\_trajectory\_evaluation](https://github.com/uzh-rpg/rpg_trajectory_evaluation) ⭐ 1,212 | 🐛 39 | 🌐 Python | 📅 2023-03-30 -  Implements common used trajectory evaluation methods for visual(-inertial) odometry.
@@ -667,8 +667,8 @@ Your contribution is necessary to keep this list alive, increase the quality and
 * [LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) ⭐ 2,755 | 🐛 40 | 🌐 C++ | 📅 2024-08-17 - Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain.
 * [slam\_toolbox](https://github.com/SteveMacenski/slam_toolbox) ⭐ 2,666 | 🐛 46 | 🌐 C++ | 📅 2026-10-05 - Slam Toolbox for lifelong mapping and localization in potentially massive maps with ROS .
 * [A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM) ⭐ 2,444 | 🐛 52 | 🌐 C++ | 📅 2023-10-19 - Advanced implementation of LOAM.
+* [KISS-ICP](https://github.com/PRBonn/kiss-icp) ⭐ 2,338 | 🐛 18 | 🌐 C++ | 📅 2026-06-09 - A LiDAR Odometry pipeline that just works on most of the cases without tunning any parameter.
 * [hdl\_graph\_slam](https://github.com/koide3/hdl_graph_slam) ⭐ 2,338 | 🐛 126 | 🌐 C++ | 📅 2024-07-16 - An open source ROS package for real-time 6DOF SLAM using a 3D LIDAR.
-* [KISS-ICP](https://github.com/PRBonn/kiss-icp) ⭐ 2,337 | 🐛 21 | 🌐 C++ | 📅 2026-06-09 - A LiDAR Odometry pipeline that just works on most of the cases without tunning any parameter.
 * [cartographer\_ros](https://github.com/googlecartographer/cartographer_ros) ⭐ 1,855 | 🐛 287 | 🌐 C++ | 📅 2024-03-10 - Provides ROS integration for Cartographer.
 * [loam\_velodyne](https://github.com/laboshinl/loam_velodyne) ⭐ 1,762 | 🐛 108 | 🌐 C++ | 📅 2019-06-18 - Laser Odometry and Mapping (Loam) is a realtime method for state estimation and mapping using a 3D lidar.
 * [loam\_livox](https://github.com/hku-mars/loam_livox) ⭐ 1,623 | 🐛 71 | 🌐 C++ | 📅 2020-02-24 - A robust LiDAR Odometry and Mapping (LOAM) package for Livox-LiDAR.
@@ -713,15 +713,15 @@ Your contribution is necessary to keep this list alive, increase the quality and
 ### Vector Map
 
 * [Mapbox](https://github.com/mapbox/mapbox-gl-js) ⭐ 12,432 | 🐛 1,457 | 🌐 TypeScript | 📅 2026-10-06 - A JavaScript library for interactive, customizable vector maps on the web.
-* [osrm-backend](https://github.com/Project-OSRM/osrm-backend) ⭐ 8,124 | 🐛 367 | 🌐 C++ | 📅 2026-10-01 - Open Source Routing Machine - C++ backend.
+* [osrm-backend](https://github.com/Project-OSRM/osrm-backend) ⭐ 8,125 | 🐛 367 | 🌐 C++ | 📅 2026-10-01 - Open Source Routing Machine - C++ backend.
 * [gdal](https://github.com/OSGeo/gdal) ⭐ 6,085 | 🐛 600 | 🌐 C++ | 📅 2026-10-06 - GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.
 * [osmnx](https://github.com/gboeing/osmnx) ⭐ 5,859 | 🐛 3 | 🌐 Python | 📅 2026-07-31 - Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
 * [geopandas](https://github.com/geopandas/geopandas) ⭐ 5,273 | 🐛 423 | 🌐 Python | 📅 2026-10-05 - A project to add support for geographic data to pandas objects.
-* [mapnik](https://github.com/mapnik/mapnik) ⭐ 3,965 | 🐛 730 | 🌐 C++ | 📅 2026-09-23 - Combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node.
-* [iD](https://github.com/openstreetmap/iD) ⭐ 3,890 | 🐛 1,018 | 🌐 JavaScript | 📅 2026-10-06 - The easy-to-use OpenStreetMap editor in JavaScript.
+* [mapnik](https://github.com/mapnik/mapnik) ⭐ 3,966 | 🐛 730 | 🌐 C++ | 📅 2026-09-23 - Combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node.
+* [iD](https://github.com/openstreetmap/iD) ⭐ 3,891 | 🐛 1,018 | 🌐 JavaScript | 📅 2026-10-06 - The easy-to-use OpenStreetMap editor in JavaScript.
 * [MapsModelsImporter](https://github.com/eliemichel/MapsModelsImporter) ⭐ 2,819 | 🐛 132 | 🌐 Python | 📅 2024-04-21 - A Blender add-on to import models from google maps.
 * [3d-tiles](https://github.com/CesiumGS/3d-tiles) ⭐ 2,613 | 🐛 97 | 🌐 Batchfile | 📅 2026-09-30 - Specification for streaming massive heterogeneous 3D geospatial datasets.
-* [grass](https://github.com/OSGeo/grass) ⭐ 1,175 | 🐛 712 | 🌐 C | 📅 2026-10-06 - GRASS GIS - free and open source Geographic Information System (GIS).
+* [grass](https://github.com/OSGeo/grass) ⭐ 1,176 | 🐛 711 | 🌐 C | 📅 2026-10-06 - GRASS GIS - free and open source Geographic Information System (GIS).
 * [segmap](https://github.com/ethz-asl/segmap) ⭐ 1,096 | 🐛 66 | 🌐 C++ | 📅 2021-03-17 - A map representation based on 3D segments.
 * [Lanelet2](https://github.com/fzi-forschungszentrum-informatik/Lanelet2) ⭐ 968 | 🐛 20 | 🌐 C++ | 📅 2026-10-03 - Map handling framework for automated driving.
 * [barefoot](https://github.com/bmwcarit/barefoot) ⭐ 693 | 🐛 58 | 🌐 Java | 📅 2023-04-14 -  Online and Offline map matching that can be used stand-alone and in the cloud.
@@ -807,7 +807,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 
 ### Acoustic User Interface
 
-* [TTS](https://github.com/coqui-ai/TTS) ⭐ 46,100 | 🐛 3 | 🌐 Python | 📅 2024-08-16 - A deep learning toolkit for Text-to-Speech, battle-tested in research and production.
+* [TTS](https://github.com/coqui-ai/TTS) ⭐ 46,101 | 🐛 3 | 🌐 Python | 📅 2024-08-16 - A deep learning toolkit for Text-to-Speech, battle-tested in research and production.
 * [DeepSpeech](https://github.com/mozilla/DeepSpeech) ⚠️ Archived - An open source Speech-To-Text engine, using a model trained by machine learning techniques based on Baidu's Deep Speech research paper.
 * [mycroft-core](https://github.com/MycroftAI/mycroft-core) ⚠️ Archived - Mycroft is a hackable open source voice assistant.
 * [DDSP](https://github.com/magenta/ddsp) ⭐ 3,372 | 🐛 54 | 🌐 Python | 📅 2026-09-29 - A library of differentiable versions of common DSP functions (such as synthesizers, waveshapers, and filters).
@@ -818,9 +818,9 @@ Your contribution is necessary to keep this list alive, increase the quality and
 
 ### Command Line Interface
 
-* [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,575 | 🐛 256 | 📅 2024-06-25 - Master the command line, in one page.
+* [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) ⭐ 162,576 | 🐛 256 | 📅 2024-06-25 - Master the command line, in one page.
 * [fzf](https://github.com/junegunn/fzf) ⭐ 83,400 | 🐛 333 | 🌐 Go | 📅 2026-10-05 - A command-line fuzzy finder.
-* [bat](https://github.com/sharkdp/bat) ⭐ 60,688 | 🐛 543 | 🌐 Rust | 📅 2026-10-01 - A cat(1) clone with wings.
+* [bat](https://github.com/sharkdp/bat) ⭐ 60,689 | 🐛 543 | 🌐 Rust | 📅 2026-10-01 - A cat(1) clone with wings.
 * [ag](https://github.com/ggreer/the_silver_searcher) ⭐ 27,125 | 🐛 564 | 🌐 C | 📅 2024-06-16 - A code-searching tool similar to ack, but faster.
 * [fx](https://github.com/antonmedv/fx) ⭐ 20,642 | 🐛 5 | 🌐 Go | 📅 2026-10-05 - Command-line tool and terminal JSON viewer.
 * [gocui](https://github.com/jroimartin/gocui) ⭐ 10,611 | 🐛 61 | 🌐 Go | 📅 2025-05-01 - Minimalist Go package aimed at creating Console User Interfaces.
@@ -841,9 +841,9 @@ Your contribution is necessary to keep this list alive, increase the quality and
 
 ## Data Visualization and Mission Control
 
-* [obs-studio](https://github.com/obsproject/obs-studio) ⭐ 77,042 | 🐛 1,148 | 🌐 C | 📅 2026-10-06 - Free and open source software for live streaming and screen recording.
+* [obs-studio](https://github.com/obsproject/obs-studio) ⭐ 77,047 | 🐛 1,148 | 🌐 C | 📅 2026-10-06 - Free and open source software for live streaming and screen recording.
 * [bokeh](https://github.com/bokeh/bokeh) ⭐ 20,454 | 🐛 844 | 🌐 TypeScript | 📅 2026-10-05 - Interactive Data Visualization in the browser, from Python.
-* [plotly.py](https://github.com/plotly/plotly.py) ⭐ 18,824 | 🐛 732 | 🌐 Python | 📅 2026-10-06 - An open-source, interactive graphing library for Python.
+* [plotly.py](https://github.com/plotly/plotly.py) ⭐ 18,824 | 🐛 733 | 🌐 Python | 📅 2026-10-06 - An open-source, interactive graphing library for Python.
 * [openmct](https://github.com/nasa/openmct) ⭐ 13,152 | 🐛 1,091 | 🌐 JavaScript | 📅 2026-09-29 - A web based mission control framework.
 * [kepler.gl](https://github.com/keplergl/kepler.gl) ⭐ 12,034 | 🐛 448 | 🌐 TypeScript | 📅 2026-10-06 - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 * [PlotJuggler](https://github.com/facontidavide/PlotJuggler) ⭐ 6,230 | 🐛 73 | 🌐 C++ | 📅 2026-10-01 - The timeseries visualization tool that you deserve.
@@ -871,9 +871,9 @@ Your contribution is necessary to keep this list alive, increase the quality and
 
 * [label-studio](https://github.com/heartexlabs/label-studio) ⭐ 28,407 | 🐛 949 | 🌐 TypeScript | 📅 2026-10-06 - Label Studio is a multi-type data labeling and annotation tool with standardized output format.
 * [LabelImg](https://github.com/tzutalin/labelImg) ⚠️ Archived - A graphical image annotation tool and label object bounding boxes in images.
-* [cvat](https://github.com/opencv/cvat) ⭐ 16,860 | 🐛 579 | 🌐 Python | 📅 2026-10-06 - Powerful and efficient Computer Vision Annotation Tool (CVAT).
+* [cvat](https://github.com/opencv/cvat) ⭐ 16,864 | 🐛 579 | 🌐 Python | 📅 2026-10-06 - Powerful and efficient Computer Vision Annotation Tool (CVAT).
 * [labelme](https://github.com/wkentaro/labelme) ⭐ 16,208 | 🐛 166 | 🌐 Python | 📅 2026-10-05 - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
-* [napari](https://github.com/napari/napari) ⭐ 2,771 | 🐛 1,281 | 🌐 Python | 📅 2026-10-06 -  A fast, interactive, multi-dimensional image viewer for python.
+* [napari](https://github.com/napari/napari) ⭐ 2,771 | 🐛 1,282 | 🌐 Python | 📅 2026-10-06 -  A fast, interactive, multi-dimensional image viewer for python.
 * [universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) ⭐ 2,073 | 🐛 169 | 🌐 JavaScript | 📅 2025-03-15 - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
 * [semantic-segmentation-editor](https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor) ⭐ 1,976 | 🐛 62 | 🌐 JavaScript | 📅 2024-09-18 - A web based labeling tool for creating AI training data sets (2D and 3D).
 * [PixelAnnotationTool](https://github.com/abreheret/PixelAnnotationTool) ⭐ 1,456 | 🐛 23 | 🌐 C++ | 📅 2022-11-21 - Annotate quickly images.
@@ -886,7 +886,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 ### Point Cloud
 
 * [Potree](https://github.com/potree/potree) ⭐ 5,629 | 🐛 822 | 🌐 JavaScript | 📅 2026-01-08 - WebGL point cloud viewer for large datasets.
-* [CloudCompare](https://github.com/CloudCompare/CloudCompare) ⭐ 4,784 | 🐛 274 | 🌐 C++ | 📅 2026-10-06 - CloudCompare is a 3D point cloud (and triangular mesh) processing software.
+* [CloudCompare](https://github.com/CloudCompare/CloudCompare) ⭐ 4,785 | 🐛 274 | 🌐 C++ | 📅 2026-10-06 - CloudCompare is a 3D point cloud (and triangular mesh) processing software.
 * [polyscope](https://github.com/nmwsharp/polyscope) ⭐ 2,215 | 🐛 127 | 🌐 C++ | 📅 2026-09-06 - A C++ & Python viewer for 3D data like meshes and point clouds.
 * [Pcx](https://github.com/keijiro/Pcx) ⭐ 1,517 | 🐛 25 | 🌐 C# | 📅 2022-08-23 - Point cloud importer & renderer for Unity.
 * [entwine](https://github.com/connormanning/entwine/) ⭐ 530 | 🐛 3 | 🌐 C++ | 📅 2026-06-02 - A data organization library for massive point clouds, designed to conquer datasets of trillions of points as well as desktop-scale point clouds.
@@ -932,10 +932,10 @@ Your contribution is necessary to keep this list alive, increase the quality and
 
 ### Database and Record
 
-* [syncthing](https://github.com/syncthing/syncthing) ⭐ 89,178 | 🐛 388 | 🌐 Go | 📅 2026-10-06 - A continuous file synchronization program.
-* [DuckDB](https://github.com/cwida/duckdb) ⭐ 41,937 | 🐛 969 | 🌐 C++ | 📅 2026-10-06 - An embeddable SQL OLAP Database Management System.
-* [nextcloud](https://github.com/nextcloud/server) ⭐ 37,007 | 🐛 3,687 | 🌐 PHP | 📅 2026-10-06 - Nextcloud is a suite of client-server software for creating and using file hosting services.
-* [borg](https://github.com/borgbackup/borg) ⭐ 13,812 | 🐛 195 | 🌐 Python | 📅 2026-10-06 - Deduplicating archiver with compression and authenticated encryption.
+* [syncthing](https://github.com/syncthing/syncthing) ⭐ 89,179 | 🐛 389 | 🌐 Go | 📅 2026-10-06 - A continuous file synchronization program.
+* [DuckDB](https://github.com/cwida/duckdb) ⭐ 41,938 | 🐛 972 | 🌐 C++ | 📅 2026-10-06 - An embeddable SQL OLAP Database Management System.
+* [nextcloud](https://github.com/nextcloud/server) ⭐ 37,008 | 🐛 3,689 | 🌐 PHP | 📅 2026-10-06 - Nextcloud is a suite of client-server software for creating and using file hosting services.
+* [borg](https://github.com/borgbackup/borg) ⭐ 13,813 | 🐛 193 | 🌐 Python | 📅 2026-10-06 - Deduplicating archiver with compression and authenticated encryption.
 * [pykitti](https://github.com/utiasSTARS/pykitti) ⭐ 1,246 | 🐛 27 | 🌐 Python | 📅 2023-10-16 - Python tools for working with KITTI data.
 * [xviz](https://github.com/uber/xviz) ⭐ 1,075 | 🐛 171 | 🌐 JavaScript | 📅 2024-07-05 - A protocol for real-time transfer and visualization of autonomy data.
 * [kitti2bag](https://github.com/tomas789/kitti2bag) ⭐ 814 | 🐛 42 | 🌐 Python | 📅 2024-07-06 - Convert KITTI dataset to ROS bag file the easy way.
@@ -951,7 +951,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 
 ### Network Distributed File System
 
-* [ceph](https://github.com/ceph/ceph) ⭐ 17,096 | 🐛 1,668 | 🌐 C++ | 📅 2026-10-06 - A distributed object, block, and file storage platform.
+* [ceph](https://github.com/ceph/ceph) ⭐ 17,096 | 🐛 1,670 | 🌐 C++ | 📅 2026-10-06 - A distributed object, block, and file storage platform.
 * [moosefs](https://github.com/moosefs/moosefs) ⭐ 2,006 | 🐛 192 | 🌐 C | 📅 2026-05-18 -  A scalable distributed storage system.
 * [sshfs](https://github.com/osxfuse/sshfs) ⭐ 1,201 | 🐛 30 | 🌐 C | 📅 2022-09-06 - File system based on the SSH File Transfer Protocol.
 * [nfs](https://github.com/sahlberg/libnfs) ⭐ 603 | 🐛 4 | 🌐 C | 📅 2026-10-03 - A distributed file system protocol originally developed by Sun Microsystems.
@@ -961,8 +961,8 @@ Your contribution is necessary to keep this list alive, increase the quality and
 
 * [ansible](https://github.com/ansible/ansible) ⭐ 70,866 | 🐛 869 | 🌐 Python | 📅 2026-10-05 - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy.
 * [localstack](https://github.com/localstack/localstack) ⚠️ Archived - A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline.
-* [traefik](https://github.com/containous/traefik) ⭐ 65,083 | 🐛 932 | 🌐 Go | 📅 2026-10-06 - The Cloud Native Edge Router.
-* [Portainer](https://github.com/portainer/portainer) ⭐ 38,619 | 🐛 765 | 🌐 TypeScript | 📅 2026-10-05 - Making Docker management easy.
+* [traefik](https://github.com/containous/traefik) ⭐ 65,084 | 🐛 932 | 🌐 Go | 📅 2026-10-06 - The Cloud Native Edge Router.
+* [Portainer](https://github.com/portainer/portainer) ⭐ 38,620 | 🐛 765 | 🌐 TypeScript | 📅 2026-10-05 - Making Docker management easy.
 * [luigi](https://github.com/spotify/luigi) ⭐ 18,781 | 🐛 180 | 🌐 Python | 📅 2026-07-18 - A Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 * [nvidia-docker](https://github.com/NVIDIA/nvidia-docker) ⚠️ Archived - Build and run Docker containers leveraging NVIDIA GPUs.
 * [kubeflow](https://github.com/kubeflow/kubeflow) ⭐ 15,898 | 🐛 1 | 📅 2026-09-30 - Machine Learning Toolkit for Kubernetes.
@@ -970,7 +970,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 * [triton-inference-server](https://github.com/NVIDIA/triton-inference-server) ⭐ 11,047 | 🐛 897 | 🌐 Python | 📅 2026-10-05 - NVIDIA Triton Inference Server provides a cloud inferencing solution optimized for NVIDIA GPUs.
 * [cudf](https://github.com/rapidsai/cudf) ⭐ 9,771 | 🐛 1,390 | 🌐 C++ | 📅 2026-10-06 - Provides a pandas-like API that will be familiar to data engineers & data scientists, so they can use it to easily accelerate their workflows without going into the details of CUDA programming.
 * [jupyterhub](https://github.com/jupyterhub/jupyterhub) ⭐ 8,351 | 🐛 203 | 🌐 Python | 📅 2026-10-05 - Multi-user server for Jupyter notebooks.
-* [graylog2-server](https://github.com/Graylog2/graylog2-server) ⭐ 8,150 | 🐛 2,085 | 🌐 Java | 📅 2026-10-06 - Free and open source log management.
+* [graylog2-server](https://github.com/Graylog2/graylog2-server) ⭐ 8,150 | 🐛 2,077 | 🌐 Java | 📅 2026-10-06 - Free and open source log management.
 * [docker-py](https://github.com/docker/docker-py) ⭐ 7,217 | 🐛 564 | 🌐 Python | 📅 2026-09-22 - A Python library for the Docker Engine API.
 * [pyinfra](https://github.com/Fizzadar/pyinfra) ⭐ 6,026 | 🐛 166 | 🌐 Python | 📅 2026-09-22 - It can be used for ad-hoc command execution, service deployment, configuration management and more.
 * [Slurm](https://github.com/SchedMD/slurm) ⭐ 4,415 | 🐛 22 | 🌐 C | 📅 2026-10-06 - Slurm: A Highly Scalable Workload Manager.
@@ -978,7 +978,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 * [docker-firefox](https://github.com/jlesage/docker-firefox) ⭐ 2,567 | 🐛 93 | 🌐 Shell | 📅 2026-09-22 - Run a Docker Container with Firefox and noVNC for remote access to headless servers.
 * [log-pilot](https://github.com/AliyunContainerService/log-pilot) ⚠️ Archived - Collect logs for docker containers.
 * [enroot](https://github.com/NVIDIA/enroot) ⭐ 1,112 | 🐛 104 | 🌐 Shell | 📅 2026-06-09 - A simple, yet powerful tool to turn traditional container/OS images into unprivileged sandboxes.
-* [mass](https://github.com/maas/maas) ⭐ 506 | 🐛 27 | 🌐 Python | 📅 2026-10-06 - Self-service, remote installation of Windows, CentOS, ESXi and Ubuntu on real servers turns your data centre into a bare metal cloud.
+* [mass](https://github.com/maas/maas) ⭐ 506 | 🐛 26 | 🌐 Python | 📅 2026-10-06 - Self-service, remote installation of Windows, CentOS, ESXi and Ubuntu on real servers turns your data centre into a bare metal cloud.
 
 ### Embedded Operation System
 
@@ -1052,7 +1052,7 @@ Your contribution is necessary to keep this list alive, increase the quality and
 * [awesome CAN](https://github.com/iDoka/awesome-canbus) ⭐ 3,492 | 🐛 9 | 📅 2026-08-07 -  A curated list of awesome CAN bus tools, hardware and resources.
 * [opendbc](https://github.com/commaai/opendbc) ⭐ 3,463 | 🐛 302 | 🌐 Python | 📅 2026-10-06 - The project to democratize access to the decoder ring of your car.
 * [can-utils](https://github.com/linux-can/can-utils) ⭐ 2,928 | 🐛 61 | 🌐 C | 📅 2026-09-20 - Linux-CAN / SocketCAN user space applications.
-* [cantools](https://github.com/eerimoq/cantools) ⭐ 2,294 | 🐛 119 | 🌐 Python | 📅 2026-10-02 - CAN BUS tools in Python 3.
+* [cantools](https://github.com/eerimoq/cantools) ⭐ 2,294 | 🐛 116 | 🌐 Python | 📅 2026-10-02 - CAN BUS tools in Python 3.
 * [AndrOBD](https://github.com/fr3ts0n/AndrOBD) ⭐ 2,123 | 🐛 74 | 🌐 Java | 📅 2026-09-26 - Android OBD diagnostics with any ELM327 adapter.
 * [CANopenNode](https://github.com/CANopenNode/CANopenNode) ⭐ 2,020 | 🐛 119 | 🌐 C | 📅 2026-07-10 - The internationally standardized (EN 50325-4) (CiA301) CAN-based higher-layer protocol for embedded control system.
 * [ddt4all](https://github.com/cedricp/ddt4all) ⭐ 1,878 | 🐛 4 | 🌐 Python | 📅 2026-10-05 - DDT4All is a tool to create your own ECU parameters screens and connect to a CAN network with a cheap ELM327 interface.
@@ -1105,18 +1105,18 @@ Your contribution is necessary to keep this list alive, increase the quality and
 ## Security
 
 * [Vault](https://github.com/hashicorp/vault) ⭐ 36,342 | 🐛 1,455 | 🌐 Go | 📅 2026-10-06 - A tool for securely accessing secrets. A secret is anything that you want to tightly control access to, such as API keys, passwords, certificates, and more.
-* [How-to-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) ⭐ 31,775 | 🐛 32 | 📅 2026-09-07 - An evolving how-to guide for securing a Linux server.
-* [fail2ban](https://github.com/fail2ban/fail2ban) ⭐ 18,721 | 🐛 278 | 🌐 Python | 📅 2026-09-28 - Daemon to ban hosts that cause multiple authentication errors.
-* [lynis](https://github.com/CISOfy/lynis) ⭐ 16,436 | 🐛 222 | 🌐 Shell | 📅 2026-09-16 - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening.
+* [How-to-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) ⭐ 31,776 | 🐛 32 | 📅 2026-09-07 - An evolving how-to guide for securing a Linux server.
+* [fail2ban](https://github.com/fail2ban/fail2ban) ⭐ 18,722 | 🐛 278 | 🌐 Python | 📅 2026-09-28 - Daemon to ban hosts that cause multiple authentication errors.
+* [lynis](https://github.com/CISOfy/lynis) ⭐ 16,437 | 🐛 222 | 🌐 Shell | 📅 2026-09-16 - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening.
 * [OpenVPN](https://github.com/OpenVPN/openvpn) ⭐ 14,644 | 🐛 224 | 🌐 C | 📅 2026-10-06 - An open source VPN daemon.
 * [bandit](https://github.com/PyCQA/bandit) ⭐ 8,294 | 🐛 262 | 🌐 Python | 📅 2026-10-06 - A tool designed to find common security issues in Python code.
 * [Firejail](https://github.com/netblue30/firejail) ⭐ 7,688 | 🐛 528 | 🌐 C | 📅 2026-10-06 - A SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities.
 * [gopass](https://github.com/gopasspw/gopass) ⭐ 7,249 | 🐛 86 | 🌐 Go | 📅 2026-10-05 - A password manager for the command line written in Go.
 * [vulscan](https://github.com/scipag/vulscan) ⭐ 3,787 | 🐛 7 | 🌐 Lua | 📅 2026-02-06 - Advanced vulnerability scanning with Nmap NSE.
-* [OpenTitan](https://github.com/lowRISC/opentitan) ⭐ 3,680 | 🐛 2,107 | 🌐 SystemVerilog | 📅 2026-10-06 - Will make the silicon Root of Trust design and implementation more transparent, trustworthy, and secure for enterprises, platform providers, and chip manufacturers. OpenTitan is administered by lowRISC CIC as a collaborative project to produce high quality, open IP for instantiation as a full-featured product.
+* [OpenTitan](https://github.com/lowRISC/opentitan) ⭐ 3,680 | 🐛 2,108 | 🌐 SystemVerilog | 📅 2026-10-06 - Will make the silicon Root of Trust design and implementation more transparent, trustworthy, and secure for enterprises, platform providers, and chip manufacturers. OpenTitan is administered by lowRISC CIC as a collaborative project to produce high quality, open IP for instantiation as a full-featured product.
 * [nmap-vulners](https://github.com/vulnersCom/nmap-vulners) ⭐ 3,496 | 🐛 3 | 🌐 Lua | 📅 2026-09-28 - NSE script based on Vulners.com API.
 * [openfortivpn](https://github.com/adrienverge/openfortivpn) ⭐ 3,429 | 🐛 140 | 🌐 Perl | 📅 2026-09-28 - A client for PPP+SSL VPN tunnel services and compatible with Fortinet VPNs.
-* [wolfssl](https://github.com/wolfSSL/wolfssl) ⭐ 2,958 | 🐛 234 | 🌐 C | 📅 2026-10-06 - A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.
+* [wolfssl](https://github.com/wolfSSL/wolfssl) ⭐ 2,958 | 🐛 232 | 🌐 C | 📅 2026-10-06 - A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.
 * [brutespray](https://github.com/x90skysn3k/brutespray) ⭐ 2,541 | 🐛 14 | 🌐 Go | 📅 2026-10-06 - Automatically attempts default creds on found services.
 * [WireGuard](https://github.com/WireGuard/WireGuard) ⚠️ Archived - WireGuard is a novel VPN that runs inside the Linux Kernel and utilizes state-of-the-art cryptography.
 * [hardening](https://github.com/konstruktoid/hardening) ⭐ 1,858 | 🐛 7 | 🌐 Shell | 📅 2026-09-29 - A quick way to make a Ubuntu server a bit more secure.
